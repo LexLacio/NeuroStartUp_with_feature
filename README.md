@@ -21,7 +21,7 @@
 <li>Дизайн-студия имени Слишком Известного Персонажа</li>
 </ol>
 <p>Ниже пример кода из нашего приложения:</p>
-```
+```css
 .selector {<br>
   font-family: "Awesome", Arial, sans-serif;<br>
   color: red;<br>
